@@ -41,7 +41,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| [ICNA](https://github.com/sienhs/ICNA_Frontend) | AI 법률 자문 서비스 | Vue.js, Express.js, REST API | 프로젝트 팀장/백엔드/프론트엔드
+| [ICNA](https://github.com/sienhs/ICNA_Frontend) | AI 법률 자문 서비스 | Vue.js, Express.js, HyperClova HCX-003 | 프로젝트 팀장/백엔드/프론트엔드
 | [SSAFY_Algorithm](https://github.com/sienhs/SSAFY_Algorithm) | 알고리즘 문제 풀이 모음 | Java |
 
 ---
