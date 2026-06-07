@@ -1,20 +1,17 @@
 <div align="center">
-
 <h2>Hi, I'm Heeseong 👋</h2>
-
-<p>Backend developer interested in building useful things with clean code.</p>
-
+<p>Backend developer who enjoys building useful things and writing clean, well-reasoned code.</p>
 <p>
   <img src="https://komarev.com/ghpvc/?username=sienhs&style=flat-square&color=grey" alt="profile views"/>
 </p>
-
 </div>
 
 ---
 
 ### 🎓 Education
-- 협성대학교 소프트웨어공학과
-- SSAFY(삼성SW AI아카데미) 15기
+- 협성대학교 소프트웨어공학과 (2022.03 ~ 2026.02)
+- SSAFY(삼성 청년 SW·AI 아카데미) 15기
+
 ---
 
 ### 🛠 Tech Stack
@@ -27,11 +24,19 @@
 
 **Backend**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**Tools**
+**Database**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
@@ -39,10 +44,11 @@
 
 ### 📌 Projects
 
-| 프로젝트 | 설명 | 기술 |
-|---|---|---|
-| [ICNA](https://github.com/sienhs/ICNA_Frontend) | AI 법률 자문 서비스 | Vue.js, Express.js, HyperClova HCX-003 | 프로젝트 팀장/백엔드/프론트엔드
-| [SSAFY_Algorithm](https://github.com/sienhs/SSAFY_Algorithm) | 알고리즘 문제 풀이 모음 | Java |
+| 프로젝트 | 설명 | 기술 | 역할 |
+|---|---|---|---|
+| [선생님의 서랍](https://github.com/sienhs/teachersDrawer) | 유치원 교사를 위한 업무 관리 웹 서비스 | Java, Spring Boot, JPA, QueryDSL, PostgreSQL, Docker | 기획/백엔드/인프라 (1인 개발) |
+| [ICNA](https://github.com/sienhs/ICNA_Frontend) | AI 법률 자문 서비스 | Vue.js, Express.js, HyperClova HCX-003 | 팀장/백엔드/프론트엔드 |
+| [SSAFY_Algorithm](https://github.com/sienhs/SSAFY_Algorithm) | 알고리즘 문제 풀이 모음 | Java | 개인 |
 
 ---
 
