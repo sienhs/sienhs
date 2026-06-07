@@ -47,7 +47,7 @@
 | 프로젝트 | 설명 | 기술 | 역할 |
 |---|---|---|---|
 | [선생님의 서랍](https://github.com/sienhs/teachersDrawer) | 유치원 교사를 위한 업무 관리 웹 서비스 | Java, Spring Boot, JPA, QueryDSL, PostgreSQL, Docker | 기획/백엔드/인프라 (1인 개발) |
-| [ICNA](https://github.com/sienhs/ICNA_Frontend) | AI 법률 자문 서비스 | Vue.js, Express.js, HyperClova HCX-003 | 팀장/백엔드/프론트엔드 |
+| [ICNA](https://github.com/sienhs/icna) | AI 법률 자문 서비스 | Vue.js, Express.js, HyperClova HCX-003 | 팀장/백엔드/프론트엔드 |
 | [SSAFY_Algorithm](https://github.com/sienhs/SSAFY_Algorithm) | 알고리즘 문제 풀이 모음 | Java | 개인 |
 
 ---
