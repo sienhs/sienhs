@@ -52,7 +52,7 @@
 
 | 프로젝트 | 기간 | 설명 | 기술 | 역할 |
 |---|---|---|---|---|
-| [TIMO](https://github.com/sienhs/<레포>) | 2026.08 ~ 2026.09 | 티켓을 NFT로 발행하고 양도가를 정가 이하로 강제해 암표를 차단하는 블록체인 기반 티켓 예매, 양도 플랫폼 | Java, Spring Boot, Spring Security(OAuth2 Resource Server), JPA, MySQL, Solidity, AWS | 백엔드 (인증/인가, 양도 마켓, 티켓 소유권) (6인 팀) |
+| [TIMO](https://github.com/sienhs/timo) | 2026.08 ~ 2026.09 | 티켓을 NFT로 발행하고 양도가를 정가 이하로 강제해 암표를 차단하는 블록체인 기반 티켓 예매, 양도 플랫폼 | Java, Spring Boot, Spring Security(OAuth2 Resource Server), JPA, MySQL, Solidity, AWS | 백엔드 (인증/인가, 양도 마켓, 티켓 소유권) (6인 팀) |
 | [MANDAL-IN](https://d106manda.vercel.app) | 2026.07 ~ 2026.08 | AI가 자연어 목표를 만다라트(9도메인 x 8과제)로 자동 분해하고, 과제 완료에 따라 3D 마을이 성장하는 목표 관리 플랫폼 | Java, Spring Boot, JPA, PostgreSQL, Redis, Docker, Jenkins, AWS(EC2/RDS/S3) | 팀장/백엔드/인프라 (6인 팀) |
 | [선생님의 서랍](https://github.com/sienhs/teachersDrawer) | | 유치원 교사를 위한 업무 관리 웹 서비스 | Java, Spring Boot, JPA, QueryDSL, PostgreSQL, Docker | 기획/백엔드/인프라 (1인 개발) |
 | [ICNA](https://github.com/sienhs/icna) | | AI 법률 자문 서비스 | Vue.js, Express.js, HyperClova HCX-003 | 팀장/백엔드/프론트엔드 |
